@@ -67,28 +67,28 @@ Uid: 5
 Folder: Invocies
 PlainText: this is my fifth invoice
 HtmlBody: <div dir="ltr">this is my fifth invoice</div>
-Content-Type: multipart/mixed; boundary="=-M17TnHc4tmDuYGJTsSWYkA=="
+Content-Type: multipart/mixed; boundary="=-JyK/bRvkPAaRrFmFzzpwoQ=="
 
---=-M17TnHc4tmDuYGJTsSWYkA==
-Content-Type: multipart/alternative; boundary="=-llMNj+MmrItUhKHNvPLl/g=="
+--=-JyK/bRvkPAaRrFmFzzpwoQ==
+Content-Type: multipart/alternative; boundary="=-t0gA8BfzTVbNC/TNeV1DRg=="
 
---=-llMNj+MmrItUhKHNvPLl/g==
+--=-t0gA8BfzTVbNC/TNeV1DRg==
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <24a405a5-62ca-4caf-8971-cf05f181dc19>
+Content-Id: <13d2cd7c-5e0a-4d6a-85df-7ab5b4fb218e>
 
 dGhpcyBpcyBteSBmaWZ0aCBpbnZvaWNlDQo=
 
---=-llMNj+MmrItUhKHNvPLl/g==
+--=-t0gA8BfzTVbNC/TNeV1DRg==
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <dab5830b-9390-4f2d-9dfd-06f949dd6f0c>
+Content-Id: <263a1b02-46db-4287-a0cc-0ea334844c07>
 
 PGRpdiBkaXI9Imx0ciI+dGhpcyBpcyBteSBmaWZ0aCBpbnZvaWNlPC9kaXY+DQo=
 
---=-llMNj+MmrItUhKHNvPLl/g==--
+--=-t0gA8BfzTVbNC/TNeV1DRg==--
 
---=-M17TnHc4tmDuYGJTsSWYkA==
+--=-JyK/bRvkPAaRrFmFzzpwoQ==
 Content-Type: application/pdf; name=BCTC-695884.pdf
 Content-Disposition: attachment; filename=BCTC-695884.pdf
 Content-Transfer-Encoding: base64
@@ -1954,4 +1954,4 @@ YjhjNThlMzRiYjdmMT4gPGYyOTE1Y2RjYTkwMDVlOWJiNzA1YjU4YmZlZWE4YjE5YmNjYzQy
 MmEwNmFkZGIwNzQwM2I4YzU4ZTM0YmI3ZjE+XQo+PgpzdGFydHhyZWYKOTk3NTIKJSVFT0YK
 
 
---=-M17TnHc4tmDuYGJTsSWYkA==--
+--=-JyK/bRvkPAaRrFmFzzpwoQ==--

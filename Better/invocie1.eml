@@ -8,28 +8,28 @@ Uid: 3
 Folder: Invocies
 PlainText: this is my first invoice
 HtmlBody: <div dir="ltr">this is my first invoice</div>
-Content-Type: multipart/mixed; boundary="=-cbM5+xF2uNxuce3UWiUeoA=="
+Content-Type: multipart/mixed; boundary="=-iopcZa3esIbEEvLotnk4lA=="
 
---=-cbM5+xF2uNxuce3UWiUeoA==
-Content-Type: multipart/alternative; boundary="=-pvUt62dDd0uV0yHY0e3X/g=="
+--=-iopcZa3esIbEEvLotnk4lA==
+Content-Type: multipart/alternative; boundary="=-5kTCiuKIOTVDuOQtWISUaQ=="
 
---=-pvUt62dDd0uV0yHY0e3X/g==
+--=-5kTCiuKIOTVDuOQtWISUaQ==
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <455c97d8-4f36-42aa-9199-9d926848dfdc>
+Content-Id: <6eb7d4ce-9338-4980-a422-e88110c07328>
 
 dGhpcyBpcyBteSBmaXJzdCBpbnZvaWNlDQo=
 
---=-pvUt62dDd0uV0yHY0e3X/g==
+--=-5kTCiuKIOTVDuOQtWISUaQ==
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <62d0e673-25f4-4198-9e59-b07987d3faf7>
+Content-Id: <f0d41476-f567-463f-ba9e-8633ce4d1f10>
 
 PGRpdiBkaXI9Imx0ciI+dGhpcyBpcyBteSBmaXJzdCBpbnZvaWNlPC9kaXY+DQo=
 
---=-pvUt62dDd0uV0yHY0e3X/g==--
+--=-5kTCiuKIOTVDuOQtWISUaQ==--
 
---=-cbM5+xF2uNxuce3UWiUeoA==
+--=-iopcZa3esIbEEvLotnk4lA==
 Content-Type: application/pdf; name=BCTC-625987.pdf
 Content-Disposition: attachment; filename=BCTC-625987.pdf
 Content-Transfer-Encoding: base64
@@ -1910,4 +1910,4 @@ MDg5NjQ1NTNhMGNhNTkyOTJhMDMzZWY2YjZhYjlkZmI4ZGIyY2Y4NzBlZGUyNzQwPiA8YjM0
 YzBiNDE3NzQxZDEyMTA4OTY0NTUzYTBjYTU5MjkyYTAzM2VmNmI2YWI5ZGZiOGRiMmNmODcw
 ZWRlMjc0MD5dCj4+CnN0YXJ0eHJlZgoxMDA1OTcKJSVFT0YK
 
---=-cbM5+xF2uNxuce3UWiUeoA==--
+--=-iopcZa3esIbEEvLotnk4lA==--

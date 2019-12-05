@@ -9,28 +9,28 @@ Folder: Invocies
 PlainText: this is my second invoice
 HtmlBody: <div dir="ltr">this is my
  =?iso-8859-1?q?second=A0invoice=3C=2Fdiv=3E?=
-Content-Type: multipart/mixed; boundary="=-dXVU52kxbI3SqcB7BOXzRA=="
+Content-Type: multipart/mixed; boundary="=-MjAeyMkb9wkZRWBD4/Wa0Q=="
 
---=-dXVU52kxbI3SqcB7BOXzRA==
-Content-Type: multipart/alternative; boundary="=-CjPQ4nlA+j4OX0xVVIBsvQ=="
+--=-MjAeyMkb9wkZRWBD4/Wa0Q==
+Content-Type: multipart/alternative; boundary="=-QkRq87IC7q9HiMghpf/hRQ=="
 
---=-CjPQ4nlA+j4OX0xVVIBsvQ==
+--=-QkRq87IC7q9HiMghpf/hRQ==
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: base64
-Content-Id: <399a5d8b-5021-4c35-b691-823cb1f5234f>
+Content-Id: <d525acd7-9426-4f2a-88e0-a36c1461f95d>
 
 dGhpcyBpcyBteSBzZWNvbmQgaW52b2ljZQ0K
 
---=-CjPQ4nlA+j4OX0xVVIBsvQ==
+--=-QkRq87IC7q9HiMghpf/hRQ==
 Content-Type: text/html; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
-Content-Id: <8b434cfe-81c7-4a9d-ae25-dbbab246b29e>
+Content-Id: <0104af27-1f5d-46dc-ada4-20329933c8f2>
 
 <div dir=3D"ltr">this is my second=C2=A0invoice</div>
 
---=-CjPQ4nlA+j4OX0xVVIBsvQ==--
+--=-QkRq87IC7q9HiMghpf/hRQ==--
 
---=-dXVU52kxbI3SqcB7BOXzRA==
+--=-MjAeyMkb9wkZRWBD4/Wa0Q==
 Content-Type: application/pdf; name=BCTC-695884.pdf
 Content-Disposition: attachment; filename=BCTC-695884.pdf
 Content-Transfer-Encoding: base64
@@ -1896,4 +1896,4 @@ YjhjNThlMzRiYjdmMT4gPGYyOTE1Y2RjYTkwMDVlOWJiNzA1YjU4YmZlZWE4YjE5YmNjYzQy
 MmEwNmFkZGIwNzQwM2I4YzU4ZTM0YmI3ZjE+XQo+PgpzdGFydHhyZWYKOTk3NTIKJSVFT0YK
 
 
---=-dXVU52kxbI3SqcB7BOXzRA==--
+--=-MjAeyMkb9wkZRWBD4/Wa0Q==--
