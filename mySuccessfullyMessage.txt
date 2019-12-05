@@ -1,8 +1,11 @@
-Dear Customer,
+Dear Human,
 
 
-we have help you successfully complete the whole process :) at {0}
+Your email automation robot has successfully completed at {0}
 
-Regards,
+The following emails/attachments were saved to your machine:
 
-Robotic Process Automation
+{1}
+
+Kind regards,
+Email Automation Robot
